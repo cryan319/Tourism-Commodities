@@ -3,7 +3,8 @@
 <param ve-config 
        title="Tourism Commodities: U.S. Tourism in Latin America (1898-1990)"
        author="Carrie Ryan"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://ids.si.edu/ids/manifest/NMAH-AC0060-0001265">
+       banner="https://iiif.juncture-digital.org/banner/?url=https://ids.si.edu/ids/manifest/NMAH-AC0060-0001265"
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
