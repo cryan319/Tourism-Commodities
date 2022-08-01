@@ -17,7 +17,10 @@
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       manifest="https://ids.si.edu/ids/manifest/NMAH-AC0060-0001265">
+       label="American Tourists among the Ruins of Mitla, Mexico"
+       description=photograph
+       license="SMU Central University Libraries, No restrictions, via Wikimedia Commons"
+       url=https://upload.wikimedia.org/wikipedia/commons/e/e0/American_Tourists_among_the_Ruins_of_Mitla%2C_Mexico_%2816793585318%29.jpg>
 
 # Basic usage
 
