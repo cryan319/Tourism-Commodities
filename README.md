@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Tourism Commodities: U.S. Tourism in Latin America (1898-1990)"
+       title="Traveling Commodities: U.S. Tourism in Latin America (1898-1990)"
        author="Carrie Ryan"
        banner=https://upload.wikimedia.org/wikipedia/commons/4/45/Santa_Clara-Souvenirs_du_Che.jpg
        layout="vertical">
@@ -24,18 +24,16 @@ Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [exa
        license="SMU Central University Libraries, No restrictions, via Wikimedia Commons"
        url=https://upload.wikimedia.org/wikipedia/commons/e/e0/American_Tourists_among_the_Ruins_of_Mitla%2C_Mexico_%2816793585318%29.jpg>
 
-# Basic usage
+# Okay, Here We Go....
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+The United Fruit Company, better known for its expansive agricultural holdings across Central America and the Caribbean basin, also participated actively in U.S. tourism to the region in the early twentieth century.  The company's network of railways, communications grids, and tourist-friendly plantations hosted U.S. tourists who traveled to and from the region on Company steamships.  It was entirely possible to take a Latin American vacation without stepping foot off United Fruit Company property.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="United Fruit Ad 1916" 
+       description="1916 advertisement for the United Fruit Company Steamship Line, Scribner's Magazine" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/4/41/United_Fruit_Ad_1916.jpg">
 
 ## Map
 
@@ -53,4 +51,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Philippe Borgouis](http://philippebourgois.net/index.html)
