@@ -16,7 +16,7 @@
 
 # Why Souvenirs?
 
-U.S. tourists traveling in Latin America have long brought home objects as remembrances (and, at times, trophies) of their travel.  Thinking about which objects were deemed "must-have" souveneirs (and by whom), and how those categories changed over time and across space, opens a door into the everyday trafficking in "types" and expectations that helped to shape U.S. thinking about Latin America and Latin Americans (and very much vice versa).  
+U.S. tourists traveling in Latin America have long brought home objects as remembrances --- and, at times, trophies --- of their travel.  Thinking about which objects were deemed "must-have" souveneirs and by whom, and how those categories changed over time and across space, opens a door into the everyday trafficking in "types" and expectations that helped to shape U.S. thinking about Latin America and Latin Americans (and very much vice versa).  
 Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        label="American Tourists among the Ruins of Mitla, Mexico"
@@ -26,7 +26,7 @@ Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [exa
 
 # Okay, Here We Go....
 
-## Image
+## Using an Image
 
 The United Fruit Company, better known for its expansive agricultural holdings across Central America and the Caribbean basin, also participated actively in U.S. tourism to the region in the early twentieth century.  The company's network of railways, communications grids, and tourist-friendly plantations hosted U.S. tourists who traveled to and from the region on Company steamships.  It was entirely possible to take a Latin American vacation without stepping foot off United Fruit Company property.[^1]
 <param ve-image 
