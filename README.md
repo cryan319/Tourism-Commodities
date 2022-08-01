@@ -3,7 +3,7 @@
 <param ve-config 
        title="Tourism Commodities: U.S. Tourism in Latin America (1898-1990)"
        author="Carrie Ryan"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://ids.si.edu/ids/manifest/NMAH-AC0060-0001265"
+       banner=https://upload.wikimedia.org/wikipedia/commons/4/45/Santa_Clara-Souvenirs_du_Che.jpg
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -14,9 +14,10 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Why Souvenirs?
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+U.S. tourists traveling in Latin America have long brought home objects as remembrances (and, at times, trophies) of their travel.  Thinking about which objects were deemed "must-have" souveneirs (and by whom), and how those categories changed over time and across space, opens a door into the everyday trafficking in "types" and expectations that helped to shape U.S. thinking about Latin America and Latin Americans (and very much vice versa).  
+Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        label="American Tourists among the Ruins of Mitla, Mexico"
        description=photograph
