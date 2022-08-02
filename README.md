@@ -16,7 +16,7 @@
 
 U.S. tourists traveling in Latin America have long brought home objects as remembrances --- and, at times, trophies --- of their travel.  Thinking about which objects were deemed "must-have" souveneirs and by whom, and how those categories changed over time and across space, opens a door into the everyday trafficking in "types" and expectations that helped to shape U.S. thinking about Latin America and Latin Americans (and very much vice versa).  
 
-<param ve-image 
+<param ve-image fint="contain"
        label="American Tourists among the Ruins of Mitla, Mexico"
        description=photograph
        license="SMU Central University Libraries, No restrictions, via Wikimedia Commons"
@@ -36,7 +36,10 @@ The United Fruit Company, better known for its expansive agricultural holdings a
 ## Tourism in the Caribbean
 
 The Caribbean Basin became a nexus for U.S. tourism in Latin America in the early decades of the twentieth century.  Hand in hand with a rise of U.S. foreign intervention across the region, U.S. tourism found a foothold in many of the same places where U.S. state and economic influence was most prominent.  Tourism sectors in places like Cuba, Puerto Rico, and Mexico catered to U.S. appetites and cultural expectations.
-<param ve-map center="Q3755298" zoom="11" prefer-geojson>
+<param ve-image fit="contain"
+       label="Caribbean Basin"
+       license="public domain"
+       manifest=https://collections.lib.uwm.edu//digital/iiif-info/agsny/67617/manifest.json>
 
 ## Multiple viewers
 
