@@ -33,7 +33,7 @@ The United Fruit Company, better known for its expansive agricultural holdings a
 
 ## Tourism in the Caribbean
 
-The Caribbean Basin became a nexus for U.S. tourism in Latin America in the early decades of the twentieth century.  Hand in hand with a rise of U.S. foreign intervention across the region, U.S. tourism found a foothold in many of the same places where U.S. state and economic influence was most prominent.  Tourism sectors in places like Cuba, Puerto Rico, and Mexico catered to U.S. appetites and cultural expectations.
+The Caribbean Basin became a nexus for U.S. tourism in Latin America in the early decades of the twentieth century.  Hand in hand with a rise of U.S. foreign intervention across the region, U.S. tourism found a foothold in many of the same places where U.S. state and economic influence was most prominent.  Tourism sectors in places like <span data-click-image-zoomto="5336,1659,1500,1137">Cuba</span>, <span data-click-image-zoomto="9151,2629,750,569">Puerto Rico</span>, and <span data-click-image-zoomto="6,532,6000,4547">Mexico</span> catered to U.S. appetites and cultural expectations.
 <param ve-image fit="contain"
        label="Caribbean Basin"
        license="public domain"
