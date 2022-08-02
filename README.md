@@ -24,8 +24,6 @@ U.S. tourists traveling in Latin America have long brought home objects as remem
 
 # Tourism and Trade
 
-## Using an Image
-
 The United Fruit Company, better known for its expansive agricultural holdings across Central America and the Caribbean basin, also participated actively in U.S. tourism to the region in the early twentieth century.  The company's network of railways, communications grids, and tourist-friendly plantations hosted U.S. tourists who traveled to and from the region on Company steamships.  It was entirely possible to take a Latin American vacation without stepping foot off United Fruit Company property.[^1]
 <param ve-image fit="contain"
        label="United Fruit Ad 1916" 
