@@ -31,7 +31,7 @@ The United Fruit Company, better known for its expansive agricultural holdings a
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/4/41/United_Fruit_Ad_1916.jpg">
 
-## Tourism in the Caribbean
+# Tourism in the Caribbean
 
 The Caribbean Basin became a nexus for U.S. tourism in Latin America in the early decades of the twentieth century.  Hand in hand with a rise of U.S. foreign intervention across the region, U.S. tourism found a foothold in many of the same places where U.S. state and economic influence was most prominent.  Tourism sectors in places like <span data-click-image-zoomto="5336,1659,1500,1137">Cuba</span>, <span data-click-image-zoomto="9151,2629,750,569">Puerto Rico</span>, and <span data-click-image-zoomto="6,532,6000,4547">Mexico</span> catered to U.S. appetites and cultural expectations.
 <param ve-image fit="contain"
@@ -39,13 +39,11 @@ The Caribbean Basin became a nexus for U.S. tourism in Latin America in the earl
        license="public domain"
        manifest=https://collections.lib.uwm.edu//digital/iiif-info/agsny/67617/manifest.json>
 
-## Multiple viewers
+# Representation and Pop Culture
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+Tourism companies and government agencies in the U.S. and in Latin America worked actively to "brand" Latin American destinations to attract travelers.  These images translated into popular culture in the U.S., especially visible in arenas including fashion, music, and film.  Representations of Latin America as exotic, tropical, and sensual became readily legible to U.S. audiences even as they flattened wildly diverse societies within a singular (and inaccurate) vision.  Viewers of films like _Guys and Dolls_ (1955) understood why a slick gangster like Sky Masterson would attempt to seduce a righteous and straight-laced charity worker by taking her to Havanna (as seen in this film clip).
+<param ve-video id="LNOeuYosc7o" title "Guys and Dolls (1955) clip">
+
 
 # References
 
