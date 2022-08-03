@@ -44,6 +44,10 @@ The Caribbean Basin became a nexus for U.S. tourism in Latin America in the earl
 Tourism companies and government agencies in the U.S. and in Latin America worked actively to "brand" Latin American destinations to attract travelers.  These images translated into popular culture in the U.S., especially visible in arenas including fashion, music, and film.  Representations of Latin America as exotic, tropical, and sensual became readily legible to U.S. audiences even as they flattened wildly diverse societies within a singular (and inaccurate) vision.  Viewers of films like _Guys and Dolls_ (1955) understood why a slick gangster like Sky Masterson would attempt to seduce a righteous and straight-laced charity worker by taking her to Havanna (as seen in this film clip).
 <param ve-video id="LNOeuYosc7o" title "Guys and Dolls (1955) clip">
 
+# Convenient Yet Exotic
+
+One of the greatest draws for U.S. tourism in the Caribbean during the mid-twentieth century was geography.  Places like Havanna and San Juan were within easy reach of steamships leaving New York, New Orleans, and other U.S. ports.  By the 1950s, air travel made these destinations even easier to reach, transforming what had been fiarly exclusive, elite getaways into attainable vacation spots for middle class travelers.  Class aspirations in the U.S. often defined a tropical vacation in the Caribbean as a marker of "making it."
+<param ve-map center="Q1563" zoom="10">
 
 # References
 
