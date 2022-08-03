@@ -16,7 +16,7 @@
 
 U.S. tourists traveling in Latin America have long brought home objects as remembrances --- and, at times, trophies --- of their travel.  Thinking about which objects were deemed "must-have" souveneirs and by whom, and how those categories changed over time and across space, opens a door into the everyday trafficking in "types" and expectations that helped to shape U.S. thinking about Latin America and Latin Americans (and very much vice versa).  
 
-<param ve-image fint="contain"
+<param ve-image fit="contain"
        label="American Tourists among the Ruins of Mitla, Mexico"
        description=photograph
        license="SMU Central University Libraries, No restrictions, via Wikimedia Commons"
